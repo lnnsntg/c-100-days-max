@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans&display=swap");
+
+body {
+  font-family: "Fira Sans", "Times New Roman", Times, serif;
+  background-color: rgba(88, 19, 19, 0.904);
+  color: thistle;
+  text-align: center;
+}
+main{
+  border: 0.7rem solid rgb(238, 103, 103);
+  box-shadow: 0.2rem 0.2rem 0.2rem rgba(228, 83, 47, 0.562);
+  max-width: 80%;
+  margin: 0 auto;  
+  border-radius: 3rem;
+}
+header {
+  margin-bottom: 2rem;
+}
+header p {
+  /* font-family: "Public Sanns", sans-serif; */
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 1rem 0 ;
+  margin: 0;
+  color: rgb(6, 177, 77);
+
+}
+header a:hover{
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  color: initial;
+  background-color: darksalmon;
+  border-radius: 7px;
+  
+
+}
+a {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  color: initial;
+}
+ul {
+  font-family: "Public Sanns", sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  list-style: none;
+  color: rgb(240, 160, 131);
+  padding: 0;
+  
+}
+li {
+  background-color: rgb(148, 42, 0);
+  border-radius: 5px;
+  max-width: 95%;
+  margin: 2rem auto auto;
+  box-shadow: 0.1rem 0.1rem  rgb(238, 63, 0, 0.7);
+}
+
+h1 {
+  font-size: 4rem;
+} 
+h2{
+  font-size: 2.5rem;
+  padding: 1rem;
+  margin: 0;
+
+}
+p {
+  font-family: "Public Sanns", sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  padding: 1rem 0 ;
+  margin: 0;
+  color: rgb(116, 160, 39);
+
+}
+footer a:hover{
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  color: initial;
+  background-color: darksalmon;
+  border-radius: 7px;
+  
+}
+footer{
+  margin-top: 1rem;
+}
+footer a{
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  color: initial;
+  
+}
